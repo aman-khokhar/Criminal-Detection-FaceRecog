@@ -1,0 +1,1 @@
+{"_default": {"1": {"name": "Preset 1", "value": 1, "camera_number": "1", "mode": "IP", "ip1": "http://192.168.0.100:8080/video", "ip2": "", "ip3": "", "ip4": ""}, "2": {"name": "Preset 2", "value": 2, "camera_number": "1", "mode": "Webcam", "ip1": "", "ip2": "", "ip3": "", "ip4": ""}}}
